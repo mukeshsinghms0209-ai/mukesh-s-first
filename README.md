@@ -1,6 +1,6 @@
 # 🚀 Autonomous Open-Source Issue Resolver Agent
 
-> **Author**: [@mukeshsinghms0209-ai](https://github.com/mukeshsinghms0209-ai) | **Repository**: [mukeshsinghms0209-ai/open-source-hackathon](https://github.com/mukeshsinghms0209-ai/open-source-hackathon)  
+> **Author**: [@mukeshsinghms0209-ai](https://github.com/mukeshsinghms0209-ai) | **Repository**: [mukeshsinghms0209-ai/mukesh-s-first](https://github.com/mukeshsinghms0209-ai/mukesh-s-first/tree/hackathon-agent)  
 > **Hacktoberfest Hackathon Submission**: A local-first, privacy-preserving AI Agent that autonomously triages GitHub *Good First Issues* and produces verified patch code using Google's **Gemma** via **Ollama** and a modular **Agent Skills (`.skill.md`)** architecture.
 
 ---

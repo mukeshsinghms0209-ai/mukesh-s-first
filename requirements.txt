@@ -1,0 +1,4 @@
+# Optional dependencies for enhanced features (agent.py also runs on pure Python 3.9+ standard library)
+pyyaml>=6.0.1
+requests>=2.31.0
+pytest>=8.0.0
